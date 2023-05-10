@@ -1,0 +1,39 @@
+{
+  "name": "rails-assets-jquery.floatThead",
+  "downloads": null,
+  "version": "2.1.4",
+  "version_downloads": null,
+  "platform": "ruby",
+  "authors": "rails-assets.org",
+  "info": "Fixed <thead>. Doesn't need any custom css/html. Does what position:sticky can't",
+  
+  "licenses": "MIT",
+  
+  "metadata": {
+
+  },
+  "sha": null,
+  "project_uri": "http://mkoryak.github.io/floatThead",
+  "gem_uri": null,
+  "homepage_uri": "http://mkoryak.github.io/floatThead",
+  "wiki_uri": null,
+  "documentation_uri": null,
+  "mailing_list_uri": null,
+  "source_code_uri": "http://mkoryak.github.io/floatThead",
+  "bug_tracker_uri": null,
+  "dependencies": {
+    "development": [
+    
+    
+    {
+      "name": "rails-assets-jquery",
+      "requirements": ">= 1.8.0"
+    },
+    
+    
+    ],
+    "runtime": [
+
+    ]
+  }
+}
